@@ -40,7 +40,8 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 
 ## ⚡ **Principais Repositórios:**
 
-[![Readme Card](https://github.com/HelouiseDayane/webchat&repo=Portfolio-Laravel-API\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HelouiseDayane&repo=webchat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/HelouiseDayane/webchat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HelouiseDayane&repo=siteimobiliario&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/HelouiseDayane/siteimobiliario)
+
 
 ## 🚀 **Languages and Tools:**
 
