@@ -74,9 +74,10 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
  
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
+ [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+
+
 
 ## 📊 **My Stats:**
 <center>
@@ -98,7 +99,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
   <a href="https://www.linkedin.com/in/helouisedayane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:helouisedayane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/helouisedayane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+
 
 
 </div>
