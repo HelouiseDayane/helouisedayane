@@ -51,18 +51,23 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
+ [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
+
  
- #### 🎲 Ciência de dados (data science):
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
+ #### 🎲 Desenvolvimento backend
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+ [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+ [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+ [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
+
  
  
  #### 📚 Tenho conhecimento básico (basic knowledge):
  
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ [![Metabase](https://img.shields.io/badge/Metabase-5094F0?style=flat-square&logo=metabase&logoColor=white)](https://www.metabase.com/)
+
 
  
  #### 🌱 Estou aprendendo (I'm learning):
@@ -90,9 +95,9 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
  
 #### *Thank you for your visit, close the door when you leave!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/helouisedayane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:helouisedayane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/helouisedayane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 
 
