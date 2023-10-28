@@ -58,7 +58,6 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
- [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 
  
@@ -79,14 +78,6 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 
 
 
-## 📊 **My Stats:**
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
-
-  </table>
-</center>  
 
 
 <div id="header" align="center">
