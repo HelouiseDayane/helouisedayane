@@ -18,7 +18,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 </a>
 </div>
 
-👋 Olá, eu sou Helouise Dayane! ESou analista de sistemas por formação, tenho experiência já nesta área, porém atuo como back-end e ainda por hobbie estudo ciências de dados. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
+👋 Olá, eu sou Helouise Dayane! Sou analista de sistemas por formação, tenho experiência já nesta área, porém atuo como back-end e ainda por hobbie estudo ciências de dados. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
 
 🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados, desevolvimento fullstack a nivel didático com laravel, redis, mysql, php sem framework também.
 
@@ -40,7 +40,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 
 ## ⚡ **Principais Repositórios:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
+[![Readme Card](https://github.com/HelouiseDayane/webchat&repo=Portfolio-Laravel-API\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
 
 ## 🚀 **Languages and Tools:**
 
