@@ -18,9 +18,9 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 </a>
 </div>
 
-👋 Olá, eu sou Sarah Rezende! Estudo Análise de dados com foco em transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
+👋 Olá, eu sou Helouise Dayane! ESou analista de sistemas por formação, tenho experiência já nesta área, porém atuo como back-end e ainda por hobbie estudo ciências de dados. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
 
-🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam desde previsões de tendências até a segmentação de clientes, bem como aplicações práticas no Power BI que simplificam dados complexos em insights claros.
+🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados, desevolvimento fullstack a nivel didático com laravel, redis, mysql, php sem framework também.
 
 🛠️ Minhas Hard Skills:
 - Manipulação de dados com Python (pandas, numpy)
