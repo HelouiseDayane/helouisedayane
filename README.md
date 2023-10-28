@@ -8,9 +8,9 @@
 
  ### Welcome, may the force be with you!
 
-I'm a student of **Information Systems** . Here are some of my study projects.
+I'm a **systems analys**, **web developer** and aspiring **data scientist**
  
-Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
+Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista de dados**
 
  <div id="header" align="center">
   <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
