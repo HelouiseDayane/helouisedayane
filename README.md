@@ -47,7 +47,6 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 ## 🚀 **Languages and Tools:**
 
  #### 💻 Uso diário (daily use):
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
@@ -59,6 +58,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
  
