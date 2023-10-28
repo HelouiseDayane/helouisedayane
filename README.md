@@ -56,6 +56,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
  
  #### 🎲 Desenvolvimento backend
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
