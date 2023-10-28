@@ -24,10 +24,11 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 
 🛠️ Minhas Hard Skills:
 - Manipulação de dados com Python (pandas, numpy)
-- Análise estatística e modelagem (scikit-learn, statsmodels)
-- Visualização de dados (Matplotlib, Seaborn, Power BI)
-- SQL para consultas e análises de bancos de dados
 - Limpeza e preparação de dados para insights confiáveis
+- Desenvolvimento com laravel, endpoints em api, com estrutura de fila e teste end-to-end
+- Microserviços
+- SQL para consultas e análises de bancos de dados (Mysql, MSSql)
+
 
 🤝 Minhas Soft Skills:
 - Pensamento analítico e resolução de problemas
