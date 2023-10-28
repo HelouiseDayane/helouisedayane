@@ -1,10 +1,9 @@
 [![Banner](https://github.com/HelouiseDayane/helouisedayane/raw/main/banner.png)](https://www.seulink.com)
 
----
+
 
 <div align="center">
 
- # SARAH FARIA REZENDE 
 
  ### Welcome, may the force be with you!
 
