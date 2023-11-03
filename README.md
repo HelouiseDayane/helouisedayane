@@ -27,7 +27,7 @@ Sou **analista de sistemas**, **desenvolvedora web** e aspirante a **cienctista 
 - Limpeza e preparação de dados para insights confiáveis
 - Desenvolvimento com laravel, endpoints em api, com estrutura de fila e teste end-to-end
 - Microserviços
-- SQL para consultas e análises de bancos de dados (Mysql, MSSql)
+- SQL para criação de bancos, tabelas, triggers, proceddures, consultas e análises de bancos de dados (Mysql, MSSQL)
 
 
 🤝 Minhas Soft Skills:
